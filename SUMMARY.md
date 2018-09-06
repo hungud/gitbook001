@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Tài liệu quản trị MBay](README.md)
+* [Tài liệu MBay](README.md)
 * [BD - Trang quản lý MBay](trang-quan-tri/README.md)
   * [Tạo tài khoản](trang-quan-tri/tao-tai-khoan.md)
   * [Quản lý tài khoản](trang-quan-tri/quan-tri-tai-khoan/README.md)
