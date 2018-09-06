@@ -1,2 +1,2 @@
-# BD - Trang quản trị Mbay
+# BD - Trang quản lý MBay
 

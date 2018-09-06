@@ -1,2 +1,2 @@
-# Quản trị tài khoản
+# Quản lý tài khoản
 
