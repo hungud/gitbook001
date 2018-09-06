@@ -1,8 +1,4 @@
----
-description: ABC
----
-
-# Tài liệu
+# Tài liệu quản trị MBay
 
 
 
