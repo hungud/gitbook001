@@ -6,11 +6,11 @@ Thông tin tài khoản
 
 Ảnh đại diện
 
-![C&#x1EAD;p nh&#x1EAD;t &#x1EA3;nh avatar](../../.gitbook/assets/image%20%2813%29.png)
+![C&#x1EAD;p nh&#x1EAD;t &#x1EA3;nh avatar](../../.gitbook/assets/image%20%2814%29.png)
 
 Đổi mật khẩu
 
-![Cho ph&#xE9;p ng&#x1B0;&#x1EDD;i d&#xF9;ng c&#x1EAD;p nh&#x1EAD;t l&#x1EA1;i m&#x1EAD;t kh&#x1EA9;u](../../.gitbook/assets/image%20%2815%29.png)
+![Cho ph&#xE9;p ng&#x1B0;&#x1EDD;i d&#xF9;ng c&#x1EAD;p nh&#x1EAD;t l&#x1EA1;i m&#x1EAD;t kh&#x1EA9;u](../../.gitbook/assets/image%20%2816%29.png)
 
 
 
