@@ -1,4 +1,8 @@
-# Initial page
+---
+description: Kiểm tra hệ thống
+---
+
+# Xin chào
 
 ## Getting Super Powers
 
@@ -21,41 +25,15 @@ echo 'You got to trust me on this, I saved the world'
 
 ![](.gitbook/assets/image.png)
 
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
+Kiểm tra hệ thống =&gt; public admin
 
-{% endapi-method-summary %}
+## Test hệ thống
 
-{% api-method-description %}
 
-{% endapi-method-description %}
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=true %}
+| Kiểm tra | Hệ thống |
+| :--- | :--- |
+| Test1 |  |
 
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
 
-{% api-method-headers %}
-{% api-method-parameter name="" type="string" required=false %}
-
-{% endapi-method-parameter %}
-{% endapi-method-headers %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
-```
-
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
