@@ -10,7 +10,7 @@ Form quản lý chuyên mục bài viết gồm 2 tab:
 
 ![H&#xEC;nh 1: Nh&#x1EAD;p th&#xF4;ng tin chung chuy&#xEA;n m&#x1EE5;c](../../.gitbook/assets/image%20%2821%29.png)
 
-Nếu dang mục được tạo là cha thì chọn danh mục cha là None, ngược lại nếu danh mục được tạo là con của danh mục đã có thì chọn danh mục cha là danh mục đã có trong combobox.
+Nếu danh mục được tạo là cha thì chọn danh mục cha là None, ngược lại nếu danh mục được tạo là con của danh mục đã có thì chọn danh mục cha là danh mục đã có trong combobox.
 
 * Sitemap: Nhập thông tin sitemap của chuyên mục
 
