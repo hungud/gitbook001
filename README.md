@@ -1,6 +1,6 @@
 # Tài liệu MBay
 
-## Gồm hai lớn:
+## Gồm hai mục lớn:
 
 ### Mục Back End
 
