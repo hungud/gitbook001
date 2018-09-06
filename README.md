@@ -1,8 +1,4 @@
----
-description: Kiểm tra hệ thống
----
-
-# Xin chào
+# Quản trị tài khoản
 
 ## Getting Super Powers
 
