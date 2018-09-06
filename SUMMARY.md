@@ -24,6 +24,9 @@
   * [Săn vé rẻ](trang-web-mbay/san-ve-re/README.md)
     * [Săn vé rẻ nội địa](trang-web-mbay/san-ve-re/san-ve-re-noi-dia.md)
     * [Săn vé rẻ quốc tế](trang-web-mbay/san-ve-re/san-ve-re-quoc-te.md)
-* [Tiện ích](tien-ich/README.md)
-  * [Kiểm tra vé đã đặt](tien-ich/kiem-tra-ve-da-dat.md)
+  * [Tiện ích](trang-web-mbay/tien-ich/README.md)
+    * [Kiểm tra vé đã đặt](trang-web-mbay/tien-ich/kiem-tra-ve-da-dat.md)
+  * [Liên hệ](trang-web-mbay/lien-he.md)
+  * [Đăng nhập](trang-web-mbay/dang-nhap.md)
+  * [Đăng ký](trang-web-mbay/dang-ky.md)
 
