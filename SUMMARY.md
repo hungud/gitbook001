@@ -12,6 +12,9 @@
     * [Quản lý tin tức](trang-quan-tri/quan-ly-noi-dung/quan-ly-tin-tuc.md)
     * [Quản lý chuyên mục](trang-quan-tri/quan-ly-noi-dung/quan-ly-chuyen-muc.md)
     * [Quản lý site map](trang-quan-tri/quan-ly-noi-dung/quan-ly-site-map.md)
-  * [Thông tin vé nội địa](trang-quan-tri/thong-tin-ve-noi-dia.md)
+  * [Kế toán](trang-quan-tri/ke-toan.md)
+  * [MDV nội địa](trang-quan-tri/thong-tin-ve-noi-dia.md)
+  * [MDV quốc tế](trang-quan-tri/mdv-quoc-te.md)
+  * [Biểu đồ - thống kê](trang-quan-tri/bieu-do-thong-ke.md)
 * [FD - Trang web MBay](trang-web-mbay.md)
 
