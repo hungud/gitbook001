@@ -2,7 +2,7 @@
 
 ![Danh s&#xE1;ch t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%2819%29.png)
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 ![H&#xEC;nh 3: M&#xE0;n h&#xEC;nh ch&#x1EC9;nh s&#x1EED;a](../../.gitbook/assets/image%20%2813%29.png)
 
