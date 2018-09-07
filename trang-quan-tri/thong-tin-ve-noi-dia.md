@@ -8,7 +8,7 @@ Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổ
 
 ![H&#xEC;nh 1: Danh s&#xE1;ch MDV n&#x1ED9;i &#x111;&#x1ECB;a](../.gitbook/assets/image%20%284%29.png)
 
-Để xử lý 1 mdv, bạn làm theo trình tự sau:
+Để xử lý 1 MDV, bạn làm theo trình tự sau:
 
 1. Click Xử lý tại cột xử lý để nhận Xử lý MDV
 
@@ -18,7 +18,7 @@ Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổ
 
 ![](../.gitbook/assets/image%20%2866%29.png)
 
-Bạn Click Ok, MDV sẽ hiển thị ra bên dưới
+Bạn Click Ok, Thông tin MDV sẽ hiển thị ra bên dưới
 
 ![H&#xEC;nh 3: Chi ti&#x1EBF;t MDV](../.gitbook/assets/image%20%2853%29.png)
 
