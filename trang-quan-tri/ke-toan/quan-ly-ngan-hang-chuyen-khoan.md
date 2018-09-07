@@ -21,7 +21,7 @@ Các trường thông tin bao gồm:
 5. Đại chỉ: Nhập địa chỉ của ngân hàng
 6. Tên công ty: Nhập tên công ty\( CÔNG TY TNHH MBAY VIỆT NAM\)
 7. Ngôn ngữ: Chọn ngôn ngữ là VN
-8. Thứ tự: nếu muốn cho ngân hàng nào hiển thị lên trước thì chọn thứ tự nhỏ
+8. Thứ tự: Nếu muốn cho ngân hàng nào hiển thị lên trước thì chọn thứ tự nhỏ
 9. Trạng thái: Hiện\(Nếu chọn Xóa thì không hiển thị ngân hàng lên lưới\)
 
 Để Sửa thông tin ngân hàng, bạn click "Sửa" , form cập nhật sẽ hiển thị ra như hình trên và tiến hành chỉnh sửa thông tin ngân hàng.
