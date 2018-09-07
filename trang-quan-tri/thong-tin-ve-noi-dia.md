@@ -107,7 +107,7 @@ Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm
 * Chờ xuất vé : là trạng thái mã dịch vụ đang chờ xuất vé
 * Đã xuất vé: là trạng thái mã dịch vụ đã thanh toán xong
 * Hủy bỏ: là trạng thái mã dịch vụ hủy bỏ đặt vé
-* Bàn giao MDV: là trạng thái MDV đang ở chế độ bàn giao
+* Bàn giao MDV: là trạng thái MDV đang được bàn giao
 
 2. **Chức năng lọc MDV**:  đây là chức năng giúp tìm kiếm mã dịch vụ chi tiết hơn
 
