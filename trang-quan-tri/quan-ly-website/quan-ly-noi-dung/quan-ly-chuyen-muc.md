@@ -14,7 +14,7 @@ Nếu danh mục được tạo là cha thì chọn danh mục cha là None, ng�
 
 * Sitemap: Nhập thông tin sitemap của chuyên mục\(Mục này không bắt buộc nhưng nếu nhập thì nhập đúng location\(đường dẫn link\), Change\_freq: Weekly, Priority: 0.8 \)
 
-![](../../../.gitbook/assets/image%20%2839%29.png)
+![](../../../.gitbook/assets/image%20%2840%29.png)
 
 =&gt;Click Thêm mới. Sau khi click sẽ hiển thị danh mục trong hộp bên trái màn hình.
 

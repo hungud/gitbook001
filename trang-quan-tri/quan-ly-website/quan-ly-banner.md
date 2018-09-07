@@ -18,7 +18,7 @@ Banner sau khi thêm mới sẽ hiển thị trên lưới. Khi muốn sửa th�
 
 Sau khi click Sửa , bạn có thể chỉnh sửa các thông tin của banner, nếu muốn ẩn banner đang chạy trên website có thể chọn trạng thái là Ẩn/Xóa đề Ẩn hoặc Xóa banner trên Website.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 Ngoài ra, form còn có chức năng search để thuận tiện cho việc tìm kiếm.
 

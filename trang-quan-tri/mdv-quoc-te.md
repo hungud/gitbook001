@@ -14,6 +14,10 @@ B3: Nhận xử lý
 
 * Nếu MDV đã có nhân viên đang xử lý thì không thể nhận xử lý. Nhưng vẫn có thể "Thêm ghi chú"
 
+![H&#x1B0;&#x1EDB;ng d&#x1EAB;n nh&#x1EAD;n x&#x1EED; l&#xFD; v&#xE0; th&#xEA;m ghi ch&#xFA;](../.gitbook/assets/image%20%2845%29.png)
+
+ Thêm ghi chú theo hình 1, nhận xử lý theo hình 2
+
   
 
 
