@@ -8,7 +8,7 @@ description: Form quản lý thông tin banner trên website MBay
 
 ![H&#xEC;nh 1: Form c&#x1EAD;p nh&#x1EAD;t Banner](../../.gitbook/assets/image%20%2828%29.png)
 
-Để hiển thị được trên trang chủ, bạn "phải nhập" mã banner là "HOME\_SLIDE\_TOP", tiếp theo nhập tên banner, đường dẫn ảnh, đường dẫn web\(khi click vào banner thì chuyển sang link này\), tiêu đề banner, mô tả ảnh, trạng thái và sắp xếp.
+Để hiển thị được trên trang chủ, bạn "phải nhập" mã banner là "HOME\_SLIDE\_TOP", tiếp theo nhập tên banner, đường dẫn ảnh, đường dẫn web\(khi click vào banner thì chuyển sang link này\), tiêu đề banner, mô tả ảnh, trạng thái và sắp xếp. Nếu thông tin nào không có bạn có thể nhập "\#"
 
 Nếu banner nào muốn cho lên trước có thể chỉnh "Sắp xếp" với thứ tự nhỏ\(VD: 1\), các banner tiếp theo đặt thứ tự tăng dần. 
 
