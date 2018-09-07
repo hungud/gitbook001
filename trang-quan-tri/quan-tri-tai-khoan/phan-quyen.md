@@ -1,10 +1,10 @@
 # Phân quyền
 
-![Danh s&#xE1;ch t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%2830%29.png)
+![Danh s&#xE1;ch t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%2832%29.png)
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
-![H&#xEC;nh 3: M&#xE0;n h&#xEC;nh ch&#x1EC9;nh s&#x1EED;a](../../.gitbook/assets/image%20%2823%29.png)
+![H&#xEC;nh 3: M&#xE0;n h&#xEC;nh ch&#x1EC9;nh s&#x1EED;a](../../.gitbook/assets/image%20%2825%29.png)
 
 * Cho phép cập nhật lại họ tên, bộ phận, chức vụ
 * Mật khẩu chỉ nhập khi muốn thay đổi
@@ -14,7 +14,7 @@
   * Quyền đăng nhập \(Cho phép đăng nhập vào trang quản trị\)
   * Khóa tài khoản
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 Phân quyền trang web:
 
@@ -24,7 +24,7 @@ Phân quyền trang web:
   * Nếu node tích vào là con thì chỉ cho phép con đó, tuy nhiên cần tích vào root của cha nữa
 * Mũi tên 3: bỏ tích để không cho phép truy cập
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 {% hint style="info" %}
 Nếu có thắc mắc vui lòng liên hệ Hương IT hoặc Hưng IT \(Số đt: 0989 700 686\)
