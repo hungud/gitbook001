@@ -14,11 +14,11 @@ Nếu banner nào muốn cho lên trước có thể chỉnh "Sắp xếp" với
 
 Banner sau khi thêm mới sẽ hiển thị trên lưới. Khi muốn sửa thông tin banner, bạn click "Sửa" trên cùng dòng của banner đó.\(như hình bên dưới\)
 
-![H&#xEC;nh 2: Click S&#x1EED;a th&#xF4;ng tin banner](../../.gitbook/assets/image%20%2850%29.png)
+![H&#xEC;nh 2: Click S&#x1EED;a th&#xF4;ng tin banner](../../.gitbook/assets/image%20%2851%29.png)
 
 Sau khi click Sửa , bạn có thể chỉnh sửa các thông tin của banner, nếu muốn ẩn banner đang chạy trên website có thể chọn trạng thái là Ẩn/Xóa đề Ẩn hoặc Xóa banner trên Website.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Ngoài ra, form còn có chức năng search để thuận tiện cho việc tìm kiếm.
 

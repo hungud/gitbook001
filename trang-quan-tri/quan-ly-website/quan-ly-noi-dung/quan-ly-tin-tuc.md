@@ -20,11 +20,11 @@ Form nhập thông tin bài viết gồm 7 tab
 
 * Vé rẻ trong tháng\(dùng để hiển thị vé rẻ trong bài viết trên trang MBay\)
 
-![H&#xEC;nh 4: Nh&#x1EAD;p v&#xE9; r&#x1EBB; trong th&#xE1;ng](../../../.gitbook/assets/image%20%2857%29.png)
+![H&#xEC;nh 4: Nh&#x1EAD;p v&#xE9; r&#x1EBB; trong th&#xE1;ng](../../../.gitbook/assets/image%20%2858%29.png)
 
 * Ý kiến khách hàng\(khách hàng bình luận trên trang sẽ hiển thị ở form này hoặc có thể do người đăng bài tạo để hiển thị trên trang\)
 
-![H&#xEC;nh 5: Nh&#x1EAD;p &#xFD; ki&#x1EBF;n kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/image%20%2861%29.png)
+![H&#xEC;nh 5: Nh&#x1EAD;p &#xFD; ki&#x1EBF;n kh&#xE1;ch h&#xE0;ng](../../../.gitbook/assets/image%20%2862%29.png)
 
 * Sitemap\(nhập link sitemap để hiển thị trong Sitemap ở footer trang MBay\): với bài viết thường để change\_freq: Daily và Priority: 0.6
 
@@ -36,7 +36,7 @@ Form nhập thông tin bài viết gồm 7 tab
 
 Sau khi nhập xong các thông tin trong bài viết, người đăng bài chọn chuyên mục bằng cách tích vào chuyên mục:
 
-![H&#xEC;nh 8: Ch&#x1ECD;n chuy&#xEA;n m&#x1EE5;c](../../../.gitbook/assets/image%20%2853%29.png)
+![H&#xEC;nh 8: Ch&#x1ECD;n chuy&#xEA;n m&#x1EE5;c](../../../.gitbook/assets/image%20%2854%29.png)
 
 =&gt;Click Thêm mới
 

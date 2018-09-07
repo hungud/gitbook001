@@ -16,7 +16,7 @@ Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổ
 
 2. Sau khi Click thì sẽ hiển thị ra hộp thoại:
 
-![](../.gitbook/assets/image%20%2856%29.png)
+![](../.gitbook/assets/image%20%2857%29.png)
 
 Bạn Click Ok, MDV sẽ hiển thị ra bên dưới
 
@@ -31,7 +31,7 @@ Khung bên phải hiện thị ghi chú của ticketing và log xử lý MDV.
 Sau khi ticketing "Nhận xử lý MDV", di chuột vào bàn tay bên trái màn hình sẽ thấy các trạng thái xử lý tiếp theo:  
 
 
-![](../.gitbook/assets/image%20%2852%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 * Bạn chọn trạng thái Chờ xuất vé sẽ hiển thị ra popup như hình bên dưới:
 
@@ -95,7 +95,7 @@ Ngoài ra hệ thống còn có các chức năng sau:
 
 1. **Chức năng tìm kiếm MDV:**  Click chọn nút Tìm kiếm trên thanh tiêu đề để tìm kiếm mã dịch vụ theo trạng thái:
 
-![](../.gitbook/assets/image%20%2864%29.png)
+![](../.gitbook/assets/image%20%2865%29.png)
 
 Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm:
 
@@ -119,7 +119,7 @@ Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm
 
 Sau khi click hệ thống sẽ mở thêm các tiêu chí để lọc
 
-![](../.gitbook/assets/image%20%2862%29.png)
+![](../.gitbook/assets/image%20%2863%29.png)
 
   
 

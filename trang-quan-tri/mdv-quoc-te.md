@@ -10,11 +10,11 @@ B2: Để nhận xử lý nhấn vào xem
 
 B3: Nhận xử lý
 
-![Th&#xF4;ng tin x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2854%29.png)
+![Th&#xF4;ng tin x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2855%29.png)
 
 * Nếu MDV đã có nhân viên đang xử lý thì không thể nhận xử lý. Nhưng vẫn có thể "Thêm ghi chú"
 
-![H&#x1B0;&#x1EDB;ng d&#x1EAB;n nh&#x1EAD;n x&#x1EED; l&#xFD; v&#xE0; th&#xEA;m ghi ch&#xFA;](../.gitbook/assets/image%20%2865%29.png)
+![H&#x1B0;&#x1EDB;ng d&#x1EAB;n nh&#x1EAD;n x&#x1EED; l&#xFD; v&#xE0; th&#xEA;m ghi ch&#xFA;](../.gitbook/assets/image%20%2866%29.png)
 
  Thêm ghi chú theo hình 1, nhận xử lý theo hình 2
 
