@@ -21,7 +21,7 @@
       * [Quản lý tin tức](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-tin-tuc.md)
       * [Quản lý chuyên mục](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-chuyen-muc.md)
       * [Quản lý site map](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-site-map.md)
-* [Chương II - Web MBay](trang-web-mbay/README.md)
+* [Chương II - Website MBay](trang-web-mbay/README.md)
   * [Trang chủ](trang-web-mbay/trang-chu.md)
   * [Giới thiệu](trang-web-mbay/gioi-thieu.md)
   * [Săn vé rẻ](trang-web-mbay/san-ve-re/README.md)
