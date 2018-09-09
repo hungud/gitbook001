@@ -2,7 +2,7 @@
 
 ## Gồm hai chương:
 
-### Chương I: Quản trị MBay
+### Chương I: Hệ thống quản lý MBay
 
 ### Chương II: Website MBay
 
