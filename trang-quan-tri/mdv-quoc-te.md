@@ -8,17 +8,17 @@ B2: Để nhận xử lý nhấn vào xem
 
 ![Nh&#x1EA5;n &quot;Xem&quot; &#x111;&#x1EC3; xem th&#xF4;ng tin MDV / nh&#x1EAD;n x&#x1EED; l&#xFD;](../.gitbook/assets/image%20%2855%29.png)
 
-![Nh&#x1EAD;n x&#x1EED; l&#xFD; v&#x1EDB;i MDV ch&#x1B0;a ai nh&#x1EAD;n x&#x1EED; l&#xFD;](../.gitbook/assets/image%20%2877%29.png)
+![Nh&#x1EAD;n x&#x1EED; l&#xFD; v&#x1EDB;i MDV ch&#x1B0;a ai nh&#x1EAD;n x&#x1EED; l&#xFD;](../.gitbook/assets/image%20%2879%29.png)
 
 B3: Nhận xử lý
 
-![Th&#xF4;ng tin x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2876%29.png)
+![Th&#xF4;ng tin x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2878%29.png)
 
 ![Cho ph&#xE9;p xem chi ti&#x1EBF;t chi ph&#xED; c&#x1EE7;a MDV](../.gitbook/assets/image%20%2814%29.png)
 
 * Nếu MDV đã có nhân viên đang xử lý thì không thể nhận xử lý. Nhưng vẫn có thể "Thêm ghi chú"
 
-![H&#x1B0;&#x1EDB;ng d&#x1EAB;n nh&#x1EAD;n x&#x1EED; l&#xFD; v&#xE0; th&#xEA;m ghi ch&#xFA;](../.gitbook/assets/image%20%2897%29.png)
+![H&#x1B0;&#x1EDB;ng d&#x1EAB;n nh&#x1EAD;n x&#x1EED; l&#xFD; v&#xE0; th&#xEA;m ghi ch&#xFA;](../.gitbook/assets/image%20%2899%29.png)
 
  Thêm ghi chú theo hình 1, nhận xử lý theo hình 2
 
@@ -30,12 +30,12 @@ Với những MDV đã có quyền xử lý: TKT có các lựa chọn:
 * Hủy bỏ xử lý: ngừng xử lý cho phép TKT khác nhận xử lý tiếp
 * Hủy bỏ mã dịch vụ: coi như KH đã hủy đặt
 
-![](../.gitbook/assets/image%20%2884%29.png)
+![](../.gitbook/assets/image%20%2886%29.png)
 
   
 TH chờ xuất vé: TKT được yêu cầu nhập ngày giờ xuất vé hay là hạn xuất vé, để hệ thống có dấu hiệu cảnh báo
 
-![Ch&#x1ECD;n h&#x1EA1;n xu&#x1EA5;t v&#xE9;, h&#x1EC7; th&#x1ED1;ng s&#x1EBD; c&#xF3; c&#x1EA3;nh b&#xE1;o khi &#x111;&#x1EBF;n h&#x1EA1;n n&#xE0;y](../.gitbook/assets/image%20%2882%29.png)
+![Ch&#x1ECD;n h&#x1EA1;n xu&#x1EA5;t v&#xE9;, h&#x1EC7; th&#x1ED1;ng s&#x1EBD; c&#xF3; c&#x1EA3;nh b&#xE1;o khi &#x111;&#x1EBF;n h&#x1EA1;n n&#xE0;y](../.gitbook/assets/image%20%2884%29.png)
 
 ![MDV &#x111;ang &#x1EDF; tr&#x1EA1;ng th&#xE1;i ch&#x1EDD; xu&#x1EA5;t. Cho ph&#xE9;p TKT x&#xE1;c nh&#x1EAD;n &#x111;&#xE3; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2851%29.png)
 
