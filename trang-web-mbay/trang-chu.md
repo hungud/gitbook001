@@ -8,5 +8,7 @@ Bao gồm:
 * Tin khuyến mại
 * Module Đăng ký / đăng nhập
 
+![](../.gitbook/assets/image%20%2867%29.png)
+
 
 

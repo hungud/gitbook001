@@ -23,7 +23,7 @@ Form quản lý chuyên mục bài viết gồm 2 tab:
 
 * Sitemap: Nhập thông tin sitemap của chuyên mục\(Mục này không bắt buộc nhưng nếu nhập thì nhập đúng location\(đường dẫn link\), Change\_freq: Weekly, Priority: 0.8 \)
 
-![](../../../.gitbook/assets/image%20%2885%29.png)
+![](../../../.gitbook/assets/image%20%2887%29.png)
 
 =&gt;Click Thêm mới. Sau khi click sẽ hiển thị danh mục trong hộp bên trái màn hình.
 

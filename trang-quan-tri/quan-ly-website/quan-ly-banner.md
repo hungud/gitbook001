@@ -6,7 +6,7 @@ description: Form quản lý thông tin banner trên website MBay
 
 Bạn vào form quản lý banner nhấn menu:
 
-![](../../.gitbook/assets/image%20%2882%29.png)
+![](../../.gitbook/assets/image%20%2883%29.png)
 
 Để đăng banner hiển thị trên website, bạn nhập thông tin vào form Cập nhật Banner bên dưới:
 
@@ -18,11 +18,11 @@ Nếu banner nào muốn cho lên trước có thể chỉnh "Sắp xếp" với
 
 Banner sau khi thêm mới sẽ hiển thị trên lưới. Khi muốn sửa thông tin banner, bạn click "Sửa" trên cùng dòng của banner đó.\(như hình bên dưới\)
 
-![H&#xEC;nh 2: Click S&#x1EED;a th&#xF4;ng tin banner](../../.gitbook/assets/image%20%2870%29.png)
+![H&#xEC;nh 2: Click S&#x1EED;a th&#xF4;ng tin banner](../../.gitbook/assets/image%20%2871%29.png)
 
 Sau khi click Sửa , bạn có thể chỉnh sửa các thông tin của banner, nếu muốn ẩn banner đang chạy trên website có thể chọn trạng thái là Ẩn/Xóa đề Ẩn hoặc Xóa banner trên Website.
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2894%29.png)
 
 Ngoài ra, form còn có chức năng search để thuận tiện cho việc tìm kiếm.
 

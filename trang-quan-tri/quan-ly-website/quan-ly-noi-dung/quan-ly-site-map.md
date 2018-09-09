@@ -14,7 +14,7 @@ Sau khi nhập thông tin sitemap trong quản lý bài viết và quản lý ch
 
 Bạn có thể chỉnh sửa thông tin sitemap bằng cách click "Sửa", form cập nhật sẽ hiển thị ở hình bên dưới:
 
-![H&#xEC;nh 2: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin Sitemap](../../../.gitbook/assets/image%20%2889%29.png)
+![H&#xEC;nh 2: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin Sitemap](../../../.gitbook/assets/image%20%2891%29.png)
 
 Thông thường, với Sitemap bài viết thường để change\_freq: Daily và Priority: 0.6, Sitemap chuyên mục thường để Change\_freq: Weekly và Priority: 0.8. Nếu muốn để link sitemap lên đầu thì chỉnh thứ tự.
 
