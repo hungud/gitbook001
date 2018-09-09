@@ -10,11 +10,11 @@ description: Form quản lý ngân hàng trong Bước Thanh Toán trên Website
 
 Thông tin ngân hàng chuyển khoản được quản lý trên lưới:
 
-![H&#xEC;nh 1: Th&#xF4;ng tin ng&#xE2;n h&#xE0;ng chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/image%20%2846%29.png)
+![H&#xEC;nh 1: Th&#xF4;ng tin ng&#xE2;n h&#xE0;ng chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/image%20%2847%29.png)
 
 Để Thêm mới/ Cập nhật thông tin của ngân hàng, form hiển thị như hình dưới:
 
-![H&#xEC;nh 2: Form Th&#xEA;m m&#x1EDB;i/ C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin ng&#xE2;n h&#xE0;ng chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/image%20%2889%29.png)
+![H&#xEC;nh 2: Form Th&#xEA;m m&#x1EDB;i/ C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin ng&#xE2;n h&#xE0;ng chuy&#x1EC3;n kho&#x1EA3;n](../../.gitbook/assets/image%20%2890%29.png)
 
 Các trường thông tin bao gồm:
 
@@ -30,7 +30,7 @@ Các trường thông tin bao gồm:
 
 Để Sửa thông tin ngân hàng, bạn click "Sửa" , form cập nhật sẽ hiển thị ra như hình trên và tiến hành chỉnh sửa thông tin ngân hàng.
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 Khi bạn Sửa và click "Cập nhật", hệ thống sẽ lưu log chỉnh sửa của Ngân hàng. Để xem bạn click Xem như hình trên.
 

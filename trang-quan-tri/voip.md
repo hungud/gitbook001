@@ -1,6 +1,6 @@
 # VOIP
 
-![L&#x1ECB;ch s&#x1EED; cu&#x1ED9;c g&#x1ECD;i VOIP](../.gitbook/assets/image%20%2848%29.png)
+![L&#x1ECB;ch s&#x1EED; cu&#x1ED9;c g&#x1ECD;i VOIP](../.gitbook/assets/image%20%2849%29.png)
 
   
 Một số tính năng:

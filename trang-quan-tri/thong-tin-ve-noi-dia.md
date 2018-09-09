@@ -6,7 +6,7 @@ description: Thông tin vé nội địa
 
 Để vào được MDV nội địa nhấn vào menu:
 
-![](../.gitbook/assets/image%20%28100%29.png)
+![](../.gitbook/assets/image%20%28101%29.png)
 
 Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổng hợp trong form này:
 
@@ -16,15 +16,15 @@ Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổ
 
 1. Click Xử lý tại cột xử lý để nhận Xử lý MDV
 
-![H&#xEC;nh 2: Nh&#x1EAD;n x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2850%29.png)
+![H&#xEC;nh 2: Nh&#x1EAD;n x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2851%29.png)
 
 2. Sau khi Click thì sẽ hiển thị ra hộp thoại:
 
-![](../.gitbook/assets/image%20%2887%29.png)
+![](../.gitbook/assets/image%20%2888%29.png)
 
 Bạn Click Ok, Thông tin MDV sẽ hiển thị ra bên dưới
 
-![H&#xEC;nh 3: Chi ti&#x1EBF;t MDV](../.gitbook/assets/image%20%2869%29.png)
+![H&#xEC;nh 3: Chi ti&#x1EBF;t MDV](../.gitbook/assets/image%20%2870%29.png)
 
 Khung bên trái màn hình hiển thị MDV, ngày giờ đặt, trạng thái xử lý của Nhân viên, Thông tin chuyến bay
 
@@ -43,7 +43,7 @@ Chú ý: nếu MDV có nhân viên đang xử lý thì không được nhận x�
 Sau khi ticketing "Nhận xử lý MDV", di chuột vào bàn tay bên trái màn hình sẽ thấy các trạng thái xử lý tiếp theo:  
 
 
-![](../.gitbook/assets/image%20%2877%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 * Bạn chọn trạng thái Chờ xuất vé sẽ hiển thị ra popup như hình bên dưới:
 
@@ -59,7 +59,7 @@ Bạn nhập Ticketing được bàn giao và ghi chú\(nếu có\)
 
 * Bạn chọn trạng thái Hủy bỏ xử lý sẽ hiển thị popup:
 
-![H&#xEC;nh 6: Popup h&#x1EE7;y b&#x1ECF; x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2857%29.png)
+![H&#xEC;nh 6: Popup h&#x1EE7;y b&#x1ECF; x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2858%29.png)
 
 Bạn nhập lý do hủy bỏ xử lý MDV vào ô text
 
@@ -68,7 +68,7 @@ Bạn nhập lý do hủy bỏ xử lý MDV vào ô text
   
 
 
-![H&#xEC;nh 7: Popup H&#x1EE7;y b&#x1ECF; MDV](../.gitbook/assets/image%20%2862%29.png)
+![H&#xEC;nh 7: Popup H&#x1EE7;y b&#x1ECF; MDV](../.gitbook/assets/image%20%2863%29.png)
 
 Bạn chọn lý do hủy và click "Đồng ý"  
 
@@ -81,7 +81,7 @@ Bạn chọn lý do hủy và click "Đồng ý"
 
 Để xuất được MDV, bạn phải cập nhật đầy đủ thông tin vào khung bên dưới bao gồm: Thông tin PNR, Điều kiện vé, Thông tin chuyến bay,Thông tin hành khách\(nếu có chỉnh sửa\), Hành lý ký gửi\(nếu có chỉnh sửa hành lý của khách\) và thông tin khách liên hệ\(nếu có chỉnh sửa\)
 
-![H&#xEC;nh 8: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin v&#xE0; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2856%29.png)
+![H&#xEC;nh 8: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin v&#xE0; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2857%29.png)
 
 Bạn nhập đầy đủ thông tin và click vào Cập nhật, thông tin cập nhật sẽ được lưu trong mục nhân viên ghi chú ở khung bên phải.
 
@@ -107,7 +107,7 @@ Ngoài ra hệ thống còn có các chức năng sau:
 
 1. **Chức năng tìm kiếm MDV:**  Click chọn nút Tìm kiếm trên thanh tiêu đề để tìm kiếm mã dịch vụ theo trạng thái:
 
-![](../.gitbook/assets/image%20%28106%29.png)
+![](../.gitbook/assets/image%20%28107%29.png)
 
 Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm:
 
@@ -131,7 +131,7 @@ Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm
 
 Sau khi click hệ thống sẽ mở thêm các tiêu chí để lọc
 
-![](../.gitbook/assets/image%20%28103%29.png)
+![](../.gitbook/assets/image%20%28104%29.png)
 
 4. **Chức năng xem những MDV mình đang xử lý, chờ xuất vé, được bàn giao và chờ xuất vé đến hạn**
 
