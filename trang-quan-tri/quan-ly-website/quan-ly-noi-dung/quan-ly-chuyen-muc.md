@@ -6,7 +6,7 @@ description: Form quản lý chuyên mục tin tức
 
 Để vào form quản lý chuyên mục bạn nhấn menu:
 
-![](../../../.gitbook/assets/image%20%2842%29.png)
+![](../../../.gitbook/assets/image%20%2843%29.png)
 
 Form quản lý chuyên mục bài viết gồm 2 tab:
 
@@ -19,15 +19,15 @@ Form quản lý chuyên mục bài viết gồm 2 tab:
 5. Sắp xếp: nếu muốn chuyên mục nào hiển thị lên trước thì đặt thứ tự nhỏ
 6. Danh mục cha: Nếu danh mục được tạo là cha thì chọn danh mục cha là None, ngược lại nếu danh mục được tạo là con của danh mục đã có thì chọn danh mục cha là danh mục đã có trong combobox.
 
-![H&#xEC;nh 1: Nh&#x1EAD;p th&#xF4;ng tin chung chuy&#xEA;n m&#x1EE5;c](../../../.gitbook/assets/image%20%2859%29.png)
+![H&#xEC;nh 1: Nh&#x1EAD;p th&#xF4;ng tin chung chuy&#xEA;n m&#x1EE5;c](../../../.gitbook/assets/image%20%2860%29.png)
 
 * Sitemap: Nhập thông tin sitemap của chuyên mục\(Mục này không bắt buộc nhưng nếu nhập thì nhập đúng location\(đường dẫn link\), Change\_freq: Weekly, Priority: 0.8 \)
 
-![](../../../.gitbook/assets/image%20%2889%29.png)
+![](../../../.gitbook/assets/image%20%2890%29.png)
 
 =&gt;Click Thêm mới. Sau khi click sẽ hiển thị danh mục trong hộp bên trái màn hình.
 
-![H&#xEC;nh 2: Th&#xF4;ng tin danh m&#x1EE5;c](../../../.gitbook/assets/image%20%2862%29.png)
+![H&#xEC;nh 2: Th&#xF4;ng tin danh m&#x1EE5;c](../../../.gitbook/assets/image%20%2863%29.png)
 
 Nếu muốn sửa thông tin danh mục, click vào "Sửa" \(bên cạnh danh mục\) để chỉnh sửa thông tin. Sau khi chỉnh sửa click "Cập nhật"
 

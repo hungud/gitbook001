@@ -6,7 +6,7 @@ description: Thông tin vé nội địa
 
 Để vào được MDV nội địa nhấn vào menu:
 
-![](../.gitbook/assets/image%20%2892%29.png)
+![](../.gitbook/assets/image%20%2893%29.png)
 
 Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổng hợp trong form này:
 
@@ -16,15 +16,15 @@ Sau khi khách hàng book vé nội địa trên website. MDV sẽ được tổ
 
 1. Click Xử lý tại cột xử lý để nhận Xử lý MDV
 
-![H&#xEC;nh 2: Nh&#x1EAD;n x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2846%29.png)
+![H&#xEC;nh 2: Nh&#x1EAD;n x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2847%29.png)
 
 2. Sau khi Click thì sẽ hiển thị ra hộp thoại:
 
-![](../.gitbook/assets/image%20%2881%29.png)
+![](../.gitbook/assets/image%20%2882%29.png)
 
 Bạn Click Ok, Thông tin MDV sẽ hiển thị ra bên dưới
 
-![H&#xEC;nh 3: Chi ti&#x1EBF;t MDV](../.gitbook/assets/image%20%2865%29.png)
+![H&#xEC;nh 3: Chi ti&#x1EBF;t MDV](../.gitbook/assets/image%20%2866%29.png)
 
 Khung bên trái màn hình hiển thị MDV, ngày giờ đặt, trạng thái xử lý của Nhân viên, Thông tin chuyến bay
 
@@ -34,7 +34,7 @@ Khung bên phải hiển thị ghi chú của ticketing và log xử lý MDV.
 
 Hệ thống cho phép xem chi tiết giá của MDV
 
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2827%29.png)
 
 {% hint style="warning" %}
 Chú ý: nếu MDV có nhân viên đang xử lý thì không được nhận xử lý, chỉ có thể "Xem" hoặc xử lý khi nhân viên đó đã bàn giao cho bạn.
@@ -43,23 +43,23 @@ Chú ý: nếu MDV có nhân viên đang xử lý thì không được nhận x�
 Sau khi ticketing "Nhận xử lý MDV", di chuột vào bàn tay bên trái màn hình sẽ thấy các trạng thái xử lý tiếp theo:  
 
 
-![](../.gitbook/assets/image%20%2871%29.png)
+![](../.gitbook/assets/image%20%2872%29.png)
 
 * Bạn chọn trạng thái Chờ xuất vé sẽ hiển thị ra popup như hình bên dưới:
 
-![H&#xEC;nh 4: Popup Ch&#x1EDD; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2820%29.png)
+![H&#xEC;nh 4: Popup Ch&#x1EDD; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2821%29.png)
 
 Bạn nhập ngày giờ xuất vé và ghi chú\(nếu có\). Sau đó bạn Click Đồng ý, log sẽ được lưu trong mục Log nhân viên xử lý.
 
 * Bạn chọn trạng thái bàn giao MDV sẽ hiển thị popup:
 
-![H&#xEC;nh 5: Popup b&#xE0;n giao MDV](../.gitbook/assets/image%20%2824%29.png)
+![H&#xEC;nh 5: Popup b&#xE0;n giao MDV](../.gitbook/assets/image%20%2825%29.png)
 
 Bạn nhập Ticketing được bàn giao và ghi chú\(nếu có\)
 
 * Bạn chọn trạng thái Hủy bỏ xử lý sẽ hiển thị popup:
 
-![H&#xEC;nh 6: Popup h&#x1EE7;y b&#x1ECF; x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2853%29.png)
+![H&#xEC;nh 6: Popup h&#x1EE7;y b&#x1ECF; x&#x1EED; l&#xFD; MDV](../.gitbook/assets/image%20%2854%29.png)
 
 Bạn nhập lý do hủy bỏ xử lý MDV vào ô text
 
@@ -68,7 +68,7 @@ Bạn nhập lý do hủy bỏ xử lý MDV vào ô text
   
 
 
-![H&#xEC;nh 7: Popup H&#x1EE7;y b&#x1ECF; MDV](../.gitbook/assets/image%20%2858%29.png)
+![H&#xEC;nh 7: Popup H&#x1EE7;y b&#x1ECF; MDV](../.gitbook/assets/image%20%2859%29.png)
 
 Bạn chọn lý do hủy và click "Đồng ý"  
 
@@ -81,13 +81,13 @@ Bạn chọn lý do hủy và click "Đồng ý"
 
 Để xuất được MDV, bạn phải cập nhật đầy đủ thông tin vào khung bên dưới bao gồm: Thông tin PNR, Điều kiện vé, Thông tin chuyến bay,Thông tin hành khách\(nếu có chỉnh sửa\), Hành lý ký gửi\(nếu có chỉnh sửa hành lý của khách\) và thông tin khách liên hệ\(nếu có chỉnh sửa\)
 
-![H&#xEC;nh 8: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin v&#xE0; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2852%29.png)
+![H&#xEC;nh 8: C&#x1EAD;p nh&#x1EAD;t th&#xF4;ng tin v&#xE0; xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2853%29.png)
 
 Bạn nhập đầy đủ thông tin và click vào Cập nhật, thông tin cập nhật sẽ được lưu trong mục nhân viên ghi chú ở khung bên phải.
 
 Sau đó bạn di chuột vào bàn tay bên trái màn hình và chọn Xác nhận đã xuất vé sẽ hiển thị ra popup bên dưới: 
 
-![H&#xEC;nh 9: Popup x&#xE1;c nh&#x1EAD;n xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2818%29.png)
+![H&#xEC;nh 9: Popup x&#xE1;c nh&#x1EAD;n xu&#x1EA5;t v&#xE9;](../.gitbook/assets/image%20%2819%29.png)
 
 Tại đây bạn nhập tổng giá thực đã thu của khách và ghi chú\(nếu có\). Sau đó nhấn Đồng ý.
 
@@ -95,11 +95,11 @@ Bạn click "Bàn giao MDV" và "Hủy bỏ MDV" tương tự như trên.
 
 Bạn có thể thêm ghi chú ở khung bên phải màn hình hoặc control cuối cùng khi di chuột vào hình bàn tay.
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 Khi click vào thêm Ghi chú sẽ hiển ra popup như bên dưới:
 
-![H&#xEC;nh 10: Popup th&#xEA;m ghi ch&#xFA; MDV](../.gitbook/assets/image%20%2815%29.png)
+![H&#xEC;nh 10: Popup th&#xEA;m ghi ch&#xFA; MDV](../.gitbook/assets/image%20%2816%29.png)
 
 Bạn nhập ghi chú và click "Đồng ý"
 
@@ -107,7 +107,7 @@ Ngoài ra hệ thống còn có các chức năng sau:
 
 1. **Chức năng tìm kiếm MDV:**  Click chọn nút Tìm kiếm trên thanh tiêu đề để tìm kiếm mã dịch vụ theo trạng thái:
 
-![](../.gitbook/assets/image%20%2898%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm:
 
@@ -131,7 +131,7 @@ Click để trọn trạng thái, các trạng thái của mã dịch vụ gồm
 
 Sau khi click hệ thống sẽ mở thêm các tiêu chí để lọc
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2896%29.png)
 
 4. **Chức năng xem những MDV mình đang xử lý, chờ xuất vé, được bàn giao và chờ xuất vé đến hạn**
 
