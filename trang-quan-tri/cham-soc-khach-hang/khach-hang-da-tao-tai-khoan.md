@@ -10,11 +10,11 @@ description: Form quản lý thông tin khách đã tạo tài khoản trên web
 
 Khi khách hàng đăng ký tài khoản trên website, thông tin sẽ được lưu và hiển thị trên lưới:
 
-![H&#xEC;nh 1: Th&#xF4;ng tin kh&#xE1;ch &#x111;&#xE3; t&#x1EA1;o t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%2877%29.png)
+![H&#xEC;nh 1: Th&#xF4;ng tin kh&#xE1;ch &#x111;&#xE3; t&#x1EA1;o t&#xE0;i kho&#x1EA3;n](../../.gitbook/assets/image%20%2882%29.png)
 
 Để chỉnh sửa thông tin của khách hàng, bạn click "Sửa"
 
-![](../../.gitbook/assets/image%20%2892%29.png)
+![](../../.gitbook/assets/image%20%2899%29.png)
 
 Thông tin sửa sẽ hiển thị ở form bên dưới:
 

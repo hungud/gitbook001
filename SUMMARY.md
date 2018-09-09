@@ -2,7 +2,6 @@
 
 * [Tài liệu MBay](README.md)
 * [Chương I - Hệ thống quản lý MBay](trang-quan-tri/README.md)
-  * [Tạo tài khoản](trang-quan-tri/tao-tai-khoan.md)
   * [Quản lý tài khoản](trang-quan-tri/quan-tri-tai-khoan/README.md)
     * [Tạo tài khoản](trang-quan-tri/quan-tri-tai-khoan/tao-tai-khoan.md)
     * [Phân quyền](trang-quan-tri/quan-tri-tai-khoan/phan-quyen.md)
@@ -21,6 +20,8 @@
       * [Quản lý tin tức](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-tin-tuc.md)
       * [Quản lý chuyên mục](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-chuyen-muc.md)
       * [Quản lý site map](trang-quan-tri/quan-ly-website/quan-ly-noi-dung/quan-ly-site-map.md)
+  * [SMS](trang-quan-tri/sms.md)
+  * [VOIP](trang-quan-tri/voip.md)
 * [Chương II - Website MBay](trang-web-mbay/README.md)
   * [Trang chủ](trang-web-mbay/trang-chu.md)
   * [Giới thiệu](trang-web-mbay/gioi-thieu.md)
