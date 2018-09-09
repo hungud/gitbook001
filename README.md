@@ -1,10 +1,10 @@
 # Tài liệu MBay
 
-## Gồm hai mục lớn:
+## Gồm hai chương:
 
-### Mục Back End
+### Chương I: Quản trị MBay
 
-### Mục Front End
+### Chương II: Website MBay
 
 
 
